@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-# About me 🚀
+<!-- # About me 🚀
 
 ## Intro
 😃 This is Suhas Umesh. <br>
 📚 3rd year IT student at Bangalore Institite of Technology, Bangalore. <br>
 💻A Coding enthusiast
 🤝 You can reach out me here. All my **links** in [here](https://linktr.ee/suhasumesh) <br>
-Feel free to contact me!
+Feel free to contact me! -->
 
-## GitHub Stats
+<!-- ## GitHub Stats
 <div align="center">
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=suhasumesh&theme=default&show_icons=true&count_private=true) 
@@ -23,6 +23,6 @@ Feel free to contact me!
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,aws,nodejs,python,java,mysql,mongodb,docker,kubernetes,vscode,postman,git" />
 </a>
   
-</div>
+</div> -->
 
 
