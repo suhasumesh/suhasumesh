@@ -20,7 +20,7 @@ Feel free to contact me!
 <div align="center">
   
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,aws,nodejs,python,java,mysql,mongodb,docker,kubernetes,mongoose,vscode,postman,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,aws,nodejs,python,java,mysql,mongodb,docker,kubernetes,vscode,postman,git" />
 </a>
   
 </div>
