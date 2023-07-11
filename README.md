@@ -1,8 +1,8 @@
 ### Hi there 👋
 
- # About me 🚀
+ <!-- # About me 🚀
 
-<!-- ## Intro -->
+## Intro
 😃 This is Suhas Umesh. <br>
 📚 3rd year IT student at Bangalore Institite of Technology, Bangalore. <br>
 💻A Coding enthusiast
@@ -23,6 +23,6 @@ Feel free to contact me!
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,aws,nodejs,python,java,mysql,mongodb,postgres,firebase,docker,kubernetes,vscode,postman,git" />
 </a>
   
-</div>
+</div> -->
 
 
