@@ -4,7 +4,7 @@
 
 ## Intro
 😃 This is Suhas Umesh. <br>
-📚 3rd year IT student at Bangalore Institite of Technology, Bangalore. <br>
+📚 3rd year IT student at Bangalore Institute of Technology, Bangalore. <br>
 💻A Coding enthusiast
 🤝 You can reach out me here. All my **links** in [here](https://linktr.ee/suhasumesh) <br>
 Feel free to contact me!
@@ -25,6 +25,6 @@ Feel free to contact me!
   
 </div> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasumesh&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasumesh&layout=compact) -->
 
 
