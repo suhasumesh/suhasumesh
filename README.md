@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- # About me 🚀
+ <!-- # About me 🚀
 
 ## Intro
 😃 This is Suhas Umesh. <br>
@@ -23,7 +23,7 @@ Feel free to contact me!
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,aws,nodejs,python,java,mysql,mongodb,postgres,firebase,docker,kubernetes,vscode,postman,git" />
 </a>
   
-</div> 
+</div> -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasumesh&layout=compact) -->
 
